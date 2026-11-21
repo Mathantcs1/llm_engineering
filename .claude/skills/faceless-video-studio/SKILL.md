@@ -13,6 +13,13 @@ Token efficiency (rules + measured data): `references/token-efficiency.md`; meas
 
 Read first: `references/studio-lessons.md` (rules learned the hard way) and `references/shorts-playbook.md` (what works in Shorts, learned from references: learn the principles, never copy formats, titles, characters or ideas).
 
+## STRICT POLICIES (mandatory for every video, any channel, any repository)
+1. **Review panel before delivery**: no video reaches the owner until the six-persona review panel in `references/review-panel.md` has run, the builder has fixed every BLOCKER and MAJOR, and all scores are >= 8. Never skip it; if time or credit is short, say what is unreviewed instead of shipping.
+2. **Every Short ends by educating the viewer**, directly ("Lesson: ...") or indirectly (a moral/payoff line), before the comment question.
+3. **Hook first**: line 1 lands in 2 seconds (surprising number, contradiction or challenge); open loop early, re-hook every 10-15 s. Quality over count; length follows the story (up to ~1:30 if it earns it).
+4. **Facts**: every number has 2+ sources actually read; no logos; fiction labelled; AI narration disclosed.
+5. **Credit and tokens**: finalize the script before any ElevenLabs call, generate each narration once, follow the token rules.
+
 ## Decide first
 1. Channel and look: ask the owner which channel and brand style. Fiction is labelled fiction; real stories are sourced.
 2. Format: **Short** (9:16, 20-58s) or **long** (16:9, 3-8 min).
